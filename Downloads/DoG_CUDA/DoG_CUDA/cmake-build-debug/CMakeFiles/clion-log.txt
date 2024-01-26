@@ -1,0 +1,10 @@
+/snap/clion/152/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/alimgh/Documents/University/Multicore/CUDA/DoG_CUDA
+-- The CUDA compiler identification is NVIDIA 11.3.109
+-- Detecting CUDA compiler ABI info
+-- Detecting CUDA compiler ABI info - done
+-- Check for working CUDA compiler: /usr/local/cuda/bin/nvcc - skipped
+-- Detecting CUDA compile features
+-- Detecting CUDA compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/alimgh/Documents/University/Multicore/CUDA/DoG_CUDA/cmake-build-debug

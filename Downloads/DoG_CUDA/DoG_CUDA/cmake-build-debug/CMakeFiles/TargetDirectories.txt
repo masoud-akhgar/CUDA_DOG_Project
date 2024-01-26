@@ -1,0 +1,3 @@
+/home/alimgh/Documents/University/Multicore/CUDA/DoG_CUDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alimgh/Documents/University/Multicore/CUDA/DoG_CUDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alimgh/Documents/University/Multicore/CUDA/DoG_CUDA/cmake-build-debug/CMakeFiles/DoG_CUDA.dir
